@@ -1,0 +1,4 @@
+pytelegrambotapi
+pymupdf
+pandas
+openpyxl
